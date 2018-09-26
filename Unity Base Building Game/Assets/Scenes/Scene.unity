@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5533fb59fe27d048b81f3630012a26f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  floorSprite: {fileID: 21300000, guid: 2dc0e9faf3ec7014eb5f1085d7fc391e, type: 3}
 --- !u!1 &242880096
 GameObject:
   m_ObjectHideFlags: 0
@@ -222,8 +223,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 242880096}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.262, y: 0.209, z: 0}
-  m_LocalScale: {x: 2.1885679, y: 2.363606, z: 1}
+  m_LocalPosition: {x: -0.077, y: 0.019, z: 0}
+  m_LocalScale: {x: 2.127426, y: 2.3592842, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
